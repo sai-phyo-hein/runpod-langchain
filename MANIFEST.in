@@ -1,0 +1,7 @@
+include README.md
+include LICENSE
+include COMPARISON.md
+include INSTALL_GUIDE.md
+recursive-include runpod_langchain *.py
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
