@@ -11,7 +11,13 @@ A custom LangChain chat model for integrating RunPod serverless endpoints with L
 - ✅ Proper response parsing from RunPod format
 - ✅ Multi-turn conversation support
 
-## 📦 Installation
+## 📦 Installation (pypi)
+```bash
+pip install runpod-langchain
+```
+
+
+## 📦 Installation (github)
 
 ### Prerequisites
 
